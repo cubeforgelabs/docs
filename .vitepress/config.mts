@@ -4,7 +4,7 @@ export default defineConfig({
   title: 'Cubeforge',
   description: 'React-first 2D browser game engine',
   appearance: true,
-  base: '/',
+  base: '/docs/',
   themeConfig: {
     logo: '/logo.svg',
     nav: [
