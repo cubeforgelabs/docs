@@ -41,6 +41,7 @@ export default defineConfig({
             { text: 'Performance', link: '/guide/performance' },
             { text: 'Migration Guide', link: '/guide/migration' },
             { text: 'Multiplayer', link: '/guide/multiplayer' },
+            { text: 'Hot Module Replacement', link: '/guide/hmr' },
             { text: 'Embedding in React Apps', link: '/guide/embedding' },
           ],
         },
